@@ -57,11 +57,11 @@ Paid Duolingo Super — **free in our launcher**, paid on the official site.
 
 ## Screenshots
 
-![Duolingo](preview.png)
+<p align="center"><img src="preview.png" alt="Duolingo" width="420"></p>
 
 Aivora launcher hub — **Education** → **Duolingo**:
 
-![Aivora Launcher](assets/launcher-main.png)
+<p align="center"><img src="assets/launcher-main.png" alt="Aivora Launcher" width="720"></p>
 
 ## FAQ
 
